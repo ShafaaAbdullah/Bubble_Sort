@@ -1,0 +1,8 @@
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.Form1.resources
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.Properties.Resources.resources
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.GenerateResource.Cache
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.exe
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.pdb
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.exe
+C:\Users\shafa\Documents\Visual Studio 2008\Projects\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.pdb
